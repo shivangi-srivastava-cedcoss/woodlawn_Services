@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6, #services p
 }
 .bg-img
 {
-	background-image: url(../images/woodlawn-serveces-hero-banner.jpg);
+	background-image: url(woodlawn-serveces-hero-banner.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6, #services p
 }
 #form-div
 {
-	background-image: url('../images/woodland.jpg');
+	background-image: url('woodland.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;

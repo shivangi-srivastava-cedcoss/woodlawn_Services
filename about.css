@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 }
 #banner
 {
-	background-image: url(../images/about.jpg);
+	background-image: url(about.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -284,7 +284,7 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 /*Services Page CSS*/
 #banner-services
 {
-	background-image: url(../images/woodlawn-mowing-service.jpg);
+	background-image: url(woodlawn-mowing-service.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -314,15 +314,15 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 }
 .bg1
 {
-	background-image: url(../images/Trimming-service.jpg);
+	background-image: url(Trimming-service.jpg);
 }
 .bg2
 {
-	background-image: url(../images/lawn-care-service.jpg);
+	background-image: url(lawn-care-service.jpg);
 }
 .bg3
 {
-	background-image: url(../images/Backyard.jpg);
+	background-image: url(Backyard.jpg);
 }
 .services-img
 {
@@ -340,7 +340,7 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 }
 .bg-leaf-removal
 {
-	background-image: url(../images/leaf-removal-lawn-service.jpg);
+	background-image: url(leaf-removal-lawn-service.jpg);
 	color: white;
 	height: 44vh;
 }
@@ -377,7 +377,7 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 }
 .bg-estimate
 {
-	background-image: url(../images/Mulched-lawn.jpg);
+	background-image: url(Mulched-lawn.jpg);
 }
 .txt-field
 {
@@ -407,7 +407,7 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 /*Contact Css*/
 #contact-banner
 {
-	background-image: url(../images/contact-for-lawn-service.jpg);
+	background-image: url(contact-for-lawn-service.jpg);
 }
 .banner-triangles
 {
@@ -475,7 +475,7 @@ h1, h2, h3, h4, h5, h6, p, #values .values-text
 /*Pricing CSS*/
 #pricing-banner
 {
-	background-image: url(../images/woodlawn-lawncare-service.jpg);
+	background-image: url(woodlawn-lawncare-service.jpg);
 }
 #payment-methods p
 {
